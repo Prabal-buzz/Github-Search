@@ -1,0 +1,17 @@
+
+.userSearch {
+    width: 308px;
+    height: 33px;
+    /* background: url("../assets/images/search.svg") #fff calc(100% - 13px) center / 12px 12px no-repeat; */
+}
+
+.userSearch::placeholder {
+    color: #969696;
+    font-weight: 400;
+    font-size: 0.85rem;
+}
+
+.custom-card{
+    justify-content: center;
+    padding-top: 5%;
+}
